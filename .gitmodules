@@ -1,0 +1,3 @@
+[submodule "3rdparty/mkl-dnn"]
+	path = 3rdparty/mkl-dnn
+	url = https://gitlab.devtools.intel.com/ipl/dl/mkl-dnn.git
