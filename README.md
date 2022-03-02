@@ -1,3 +1,3 @@
-# kernel_exp
+# sparse kernel experiments
 
 Experiments on kernel development
