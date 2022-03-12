@@ -1,5 +1,5 @@
 /*******************************************************************************
- * Copyright 2020 Intel Corporation
+ * Copyright 2020 to Author Joejiong
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
